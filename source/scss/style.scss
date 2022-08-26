@@ -267,6 +267,7 @@ body {
             border-radius: 50%;
             margin: 0 3px;
             transition: all 0.3s ease 0s;
+            cursor: pointer;
         }
         .slider-active {
             border: 2px solid #1ca8dd;
@@ -608,7 +609,6 @@ body {
     }
     
     &__header {
-        // padding-top: 137px;
         text-align: center;
         .title {
             color: #394b50;
